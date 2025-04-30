@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Planning Workshop",
+        "date": "2025-05-22",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "name": "Meeting",
+        "date": "2025-05-02",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "name": "Pop Con",
+        "date": "2025-06-26",
+        "likes": 0
+    }
+]
